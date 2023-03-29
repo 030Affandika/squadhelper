@@ -61,7 +61,7 @@ require 'db_connect.php';
 		<div class="container">
 			<h3>Lapak Anda</h3>
 			<div class="box">
-				<p><a href="unggahJasa.php">Tambah Jasa</a></p>
+				<p><a href="tambahJasa.php">Tambah Jasa</a></p>
 				<table border="1" cellspacing="0" class="table">
 					<thead>
 						<tr>
