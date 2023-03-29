@@ -84,7 +84,7 @@ if (isset($_POST['submit'])) {
 		null
 			) ");
     // mysqli_query($conn, $query);
-    header("location:beranda.php");
+    header("location:index.php");
 }
 
 function upload()
